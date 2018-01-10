@@ -1,4 +1,4 @@
-# music-outliers
+# world-music-tagging
 
 Automatic tagging for world music recordings using convolutional neural networks. 
 
@@ -12,7 +12,7 @@ This project trains a Convolutional Neural Network (CNN) on Mel spectrograms der
 
 #### Models
 
-Two CNN architectures are compared against a baseline with MFCCs. 
+Two CNN architectures are compared against a baseline model trained with MFCCs. 
 
 ```python
 python scripts/train_model.py
