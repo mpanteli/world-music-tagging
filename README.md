@@ -6,7 +6,7 @@ Automatic tagging for world music recordings using convolutional neural networks
 
 This project trains a Convolutional Neural Network (CNN) on Mel spectrograms derived from world music recordings of the Smithsonian Folkways and British Library Sound collections. 
 
-![image](https://raw.githubusercontent.com/mpanteli/world-music-tagging/master/data/cnn.png)
+![alt tag](https://raw.githubusercontent.com/mpanteli/world-music-tagging/master/data/cnn.png)
 
 ## Usage
 
